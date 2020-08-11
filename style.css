@@ -385,7 +385,9 @@ padding-left:0px !important;
 #stats .d{
 margin-right:50px !important;
 } 
- 
+ #contact .cont-div{
+	 width:80% !important;
+	}
 }
 
 
