@@ -390,10 +390,10 @@ margin-right:50px !important;
 	 text-align:justify !important;
 	}
 #fm-cnt{
-	width:100% !important;
+	width:80% !important;
 	}
 	#contact input[type="text"],#contact input[type="email"]{
-width:100% !important;
+width:80% !important;
 		padding:10px 0px !important;
 }
 }
