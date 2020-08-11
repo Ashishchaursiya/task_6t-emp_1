@@ -392,6 +392,9 @@ margin-right:50px !important;
 #fm-cnt{
 	width:100% !important;
 	}
+	#contact input[type="text"],#contact input[type="email"]{
+width:100% !important;
+}
 }
 
 
