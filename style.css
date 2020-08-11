@@ -386,7 +386,7 @@ padding-left:0px !important;
 margin-right:50px !important;
 } 
  #cnt{
-	 width:100% !important;
+	 width:80% !important;
 	 text-align:justify !important;
 	}
 #fm-cnt{
@@ -394,7 +394,7 @@ margin-right:50px !important;
 	}
 	#contact input[type="text"],#contact input[type="email"]{
 width:80% !important;
-		padding:10px 0px !important;
+		padding:10px 15px !important;
 }
 }
 
