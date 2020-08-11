@@ -386,16 +386,16 @@ padding-left:0px !important;
 margin-right:50px !important;
 } 
  #cnt{
-	 width:80% !important;
+	 width:70% !important;
 	 text-align:justify !important;
 	 padding:10px 30px !important;
 	}
 #fm-cnt{
-	width:80% !important;
+	width:70% !important;
 	}
 	#contact input[type="text"],#contact input[type="email"]{
-width:80% !important;
-		padding:10px 30px !important;
+width:70% !important;
+		padding:10px 60px !important;
 }
 }
 
