@@ -1,4 +1,4 @@
- 
+  
  
  html,body{
      height: 100%;
@@ -385,11 +385,19 @@ padding-left:0px !important;
 #stats .d{
 margin-right:50px !important;
 } 
- 
- 
- 
+#contact .cont-div{
+width:70% !important;
+text-align:justify !important;
+} 
+#fm
+{
+width:70% !important;
 }
-
+#contact input[type="text"],#contact input[type="email"]
+{
+width:100% !important;
+}
+}
 
 
 
